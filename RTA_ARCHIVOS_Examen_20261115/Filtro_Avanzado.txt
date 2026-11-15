@@ -1,0 +1,4 @@
+Mi IP Publica es: 181.0.132.217  
+Mi usuario es: vagrant
+El Hash de mi usuario es: $y$j9T$aC8GlBNIa9bWuM0uCLss0.$ESArCLHq.i/9qUwFdC7jIQWLDhJ4p4chbCGjCn3CAa0
+La URL de mi repositorio es: https://github.com/castrojuan/UTNFRA_SO_1P2C_2024_J_castro.git
